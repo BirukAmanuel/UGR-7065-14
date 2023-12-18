@@ -70,7 +70,6 @@ function adjustElementBasedOnScreen() {
   }
 }
 
-
 document.addEventListener('DOMContentLoaded', adjustElementBasedOnScreen);
 window.addEventListener('resize', adjustElementBasedOnScreen);
 
